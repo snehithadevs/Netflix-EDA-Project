@@ -1,6 +1,6 @@
 Netflix Data Analysis Project (Improved Version)
 
-#Project Overview
+# Project Overview
 This is an "improved version" of my Netflix Data Analysis project where I performed complete Exploratory Data Analysis (EDA), data cleaning, and insight generation using Python.
 The goal of this project is to understand Netflix content trends, audience preferences, and global distribution of movies and TV shows.
 # Project Improvements (Compared to Previous Version)
@@ -34,18 +34,18 @@ Netflix has more movies than TV shows, showing movie dominance on the platform.
 - India and United Kingdom follow next
 - Netflix content is globally distributed
 
-#3. Ratings Analysis
+# 3. Ratings Analysis
 - TV-MA and TV-14 dominate Netflix content
 - Platform mainly focuses on mature and teen audiences
 
-#4. Year-wise Trend
+# 4. Year-wise Trend
 Netflix content has increased significantly after 2015, showing rapid platform growth.
 
-#5. Duration Analysis
+# 5. Duration Analysis
 - Average movie duration is around 100 minutes
 - Most TV shows have 1–2 seasons
 
-#Key Insights
+# Key Insights
 - Netflix is heavily focused on movies
 - USA is the dominant content producer
 - India is a strong emerging contributor
@@ -53,6 +53,6 @@ Netflix content has increased significantly after 2015, showing rapid platform g
 - Netflix is rapidly expanding globally
 - Most TV shows are limited series
 
-#Conclusion
+# Conclusion
 This improved version of the project demonstrates better data cleaning, structured analysis, and meaningful insights. It helped me strengthen my skills in data analysis and storytelling using real-world data.
 
