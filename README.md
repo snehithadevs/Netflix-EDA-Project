@@ -1,4 +1,4 @@
-Netflix Data Analysis Project (Improved Version)
+# Netflix Data Analysis Project (Improved Version)
 
 # Project Overview
 This is an "improved version" of my Netflix Data Analysis project where I performed complete Exploratory Data Analysis (EDA), data cleaning, and insight generation using Python.
@@ -11,7 +11,7 @@ This version is improved with:
 - Structured EDA approach (step-by-step)
 - Clear insights after each analysis
 - Better visualizations and interpretation
-  #Tools Used
+  # Tools Used
 - Python
 - Pandas
 - Matplotlib
@@ -19,14 +19,14 @@ This version is improved with:
 # Dataset
 Netflix Movies and TV Shows dataset (Kaggle)
 
-#Data Cleaning Steps
+# Data Cleaning Steps
 - Removed missing values
 - Removed "Unknown" values from country column
 - Handled inconsistent data entries
 - Split multi-country values for accurate analysis
 - Converted duration column into numeric format
 
-#Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 # 1. Movies vs TV Shows
 Netflix has more movies than TV shows, showing movie dominance on the platform.
 # 2. Country-wise Analysis
